@@ -1,5 +1,5 @@
 # Plugin-Qgis
-Plugin fotr Qgis
+Plugin for Qgis
 # Marcos de plantación
 
 Este complemento permite generar automáticamente puntos dentro de polígonos seleccionados, simulando marcos de plantación. 
